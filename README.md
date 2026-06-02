@@ -17,3 +17,6 @@ python src/enemy_ai.py
 - Python 3.x
 - pygame-ce
 - A* with Manhattan distance heuristic
+
+## Demo
+https://github.com/Ph0enix22/enemy-ai-astar/blob/main/assets/demo_video.mp4
