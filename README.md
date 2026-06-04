@@ -19,4 +19,7 @@ python src/enemy_ai.py
 - A* with Manhattan distance heuristic
 
 ## Demo
+
+![Enemy AI Demo](assets/gameplay.gif)
+
 https://github.com/Ph0enix22/enemy-ai-astar/blob/main/assets/demo_video.mp4
